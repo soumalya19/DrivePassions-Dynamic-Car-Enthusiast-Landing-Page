@@ -1,0 +1,27 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 120px;
+
+    color: aliceblue;
+
+}
+.nav-logo{
+    font-family: Poppins;
+    font-size: 44px;
+    font-weight: 500;
+
+}
+.nav-menu{
+    list-style: none;
+    align-items: center;
+    display: flex;
+    gap: 90px;
+}
+.nav-contact{
+    border-radius: 50px;
+    padding: 10px 38px;
+    background-color: white;
+    color: black;
+}
